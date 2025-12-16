@@ -20,6 +20,7 @@ export default function Navbar() {
     { name: "About", href: "#about" },
     { name: "Experience", href: "#experience" },
     { name: "Projects", href: "#projects" },
+    { name: "Blogs", href: "#blogs" },
     { name: "Skills", href: "#skills" },
   ];
 
@@ -68,8 +69,10 @@ export default function Navbar() {
             <a href="https://www.linkedin.com/in/ashwin-sridharan-b8474520a" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-white transition-colors">
               <Linkedin size={20} />
             </a>
-            <Button variant="outline" size="sm" className="border-primary/50 text-primary hover:bg-primary/10 hover:text-primary">
-              <FileText className="mr-2 h-4 w-4" /> Resume
+            <Button variant="outline" size="sm" className="border-primary/50 text-primary hover:bg-primary/10 hover:text-primary" asChild>
+              <a href="/Ashwin-Sridharan-resume_1765854826035.pdf" download="Ashwin_Sridharan_Resume.pdf" target="_blank">
+                <FileText className="mr-2 h-4 w-4" /> Resume
+              </a>
             </Button>
           </div>
         </div>

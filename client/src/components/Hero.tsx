@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Terminal, Cloud, Server } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import avatarImage from "@assets/generated_images/stylized_3d_memoir_avatar_for_developer.png";
+import avatarImage from "@assets/profile_pic_1765854786187.jpg";
 import bgImage from "@assets/generated_images/abstract_dark_tech_background_with_neon_circuits.png";
 
 export default function Hero() {
