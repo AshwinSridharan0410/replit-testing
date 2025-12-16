@@ -110,7 +110,7 @@ export default function Blogs() {
         
         <div className="mt-12 text-center">
           <Button size="lg" className="bg-white/5 hover:bg-white/10 text-white border border-white/10" asChild>
-            <a href="https://medium.com/@ashwinsridharan0410" target="_blank" rel="noopener noreferrer">
+            <a href="https://medium.com/@ashwinsri04/lists" target="_blank" rel="noopener noreferrer">
               View All Articles <ArrowRight className="ml-2 h-4 w-4" />
             </a>
           </Button>
