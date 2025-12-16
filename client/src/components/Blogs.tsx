@@ -12,7 +12,7 @@ const blogSeries = [
     description: "A deep dive into the Linux kernel, exploring memory management, process scheduling, and system calls that power the world's servers.",
     icon: <Terminal className="h-6 w-6 text-primary" />,
     tags: ["Linux Kernel", "Systems Programming", "C"],
-    link: "https://medium.com/@ashwinsridharan0410" // Placeholder link
+    link: "https://medium.com/@ashwinsri04/list/the-hidden-corners-of-linux-30-days-of-deep-kernel-magic-94c58bddda1d" // Placeholder link
   },
   {
     title: "The Networking Playbook",
@@ -20,7 +20,7 @@ const blogSeries = [
     description: "Mastering computer networks from the physical layer to application protocols. Understanding TCP/IP, DNS, BGP, and modern cloud networking.",
     icon: <Network className="h-6 w-6 text-primary" />,
     tags: ["Networking", "TCP/IP", "Cloud"],
-    link: "https://medium.com/@ashwinsridharan0410" // Placeholder link
+    link: "https://medium.com/@ashwinsri04/list/the-networking-playbook30-days-from-basics-to-pro-511935e469ad" // Placeholder link
   },
   {
     title: "MLOps Atlas",
@@ -28,7 +28,7 @@ const blogSeries = [
     description: "Navigating the complex landscape of MLOps. From model training and versioning to deployment, monitoring, and scaling AI in production.",
     icon: <Cpu className="h-6 w-6 text-primary" />,
     tags: ["MLOps", "AI", "DevOps"],
-    link: "https://medium.com/@ashwinsridharan0410" // Placeholder link
+    link: "https://medium.com/@ashwinsri04/list/the-mlops-atlas-maps-for-modern-machine-learning-systems-4e04f5da1468" // Placeholder link
   }
 ];
 
